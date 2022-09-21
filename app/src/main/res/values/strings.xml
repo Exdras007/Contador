@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_toast">Toast</string>
+    <string name="txt_cuenta">0</string>
+    <string name="btn_cuenta">Contar</string>
+    <string name="btn_reset">Resetear</string>
+</resources>
